@@ -1,4 +1,4 @@
-# Truck-Based Development (TBD) Guide for New Developers
+# Truck-Based Development (TBD) Guide
 
 ## Overview
 Truck-Based Development (TBD) is a Git workflow designed to minimize the "truck factor" by ensuring that knowledge is distributed across the team. It promotes frequent collaboration, short-lived branches, and a single source of truth in the `main` branch.
