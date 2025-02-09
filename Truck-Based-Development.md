@@ -159,7 +159,5 @@ Truck-Based Development (TBD) is a Git workflow designed to minimize the "truck 
 - **Document key decisions** – Keep an internal wiki or markdown files updated.
 - **Keep the `main` branch stable** – Feature development happens in branches.
 
-## Getting Help
-If you have questions, check the project README, internal documentation, or reach out to the team in Slack/Teams.
 ```
 
